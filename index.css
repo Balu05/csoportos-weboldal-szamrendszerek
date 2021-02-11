@@ -1,0 +1,46 @@
+body {
+    background-color: darkgrey;
+    
+}
+
+.b1 {
+    
+    position:relative;
+    left: 60px;
+    font-style: normal;
+    border: green double 10px;
+    border-radius: 10px;
+    padding: 3px 10px;
+    border-width: 15px;
+    width: 250px;
+    padding: 4px;
+    background-color: darkseagreen
+    
+}
+
+.c1 {
+   border:aquamarine dotted 5px;
+    margin: 10px;
+    width: 100px;
+    padding: 4px;
+}
+
+.d1 {
+   border:aquamarine dotted 5px;
+     margin: 10px;
+    width: 100px;
+    padding: 4px;
+}
+    
+
+
+.g1 {
+   border:aquamarine dotted 5px;
+     margin: 10px;
+    width: 100px;
+    padding: 4px;
+    
+}
+
+
+    
